@@ -1,8 +1,8 @@
 <template>
-  <div>pay</div>
+  <div>product</div>
 </template>
 <script>
 export default {
-  name: "order-pay",
+  name: "product",
 };
 </script>
